@@ -8,7 +8,7 @@ This repo holds the code of VGGA-ViT: A VGG attention vision transformer network
 ****
 ## Training<br />
 1. Prepare dataset<br />
-2. Download pre -training weight file from the website "https://download.pytorch.org/models/vgg16-397923af.pth"<br />
+2. Download pre-training weight file from the website "https://download.pytorch.org/models/vgg16-397923af.pth"<br />
 3. Change the file path in the code<br />
 4. Running training code
 ```python
