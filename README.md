@@ -1,14 +1,7 @@
 # VGGA-ViT<br />
 ## Citation:<br />
-Please consider citing us if you find this work helpful:<br />
-  ```
-@article{Qu2022vgga,
-    author    = {Xiaolei Qu and Hongyan Lu and Wenzhong Tang and Jue Jiang},
-    title     = {A VGG attention vision transformer network for benign and malignant classification of breast ultrasound images},
-    journal   = {Med Phys doi:10.1002/mp.15852},
-    year      = {2022}
-}
-```
+If you use this code, please cite following paper, thanks.<br />
+Qu X, Lu H, Tang W, Wang S, Zheng D, Hou Y, Jiang J. A VGG attention vision transformer network for benign and malignant classification of breast ultrasound images. Med Phys. 2022 Sep;49(9):5787-5798. doi: 10.1002/mp.15852. Epub 2022 Jul 30. PMID: 35866492.
 ****
 ## Training:<br />
 ```python
